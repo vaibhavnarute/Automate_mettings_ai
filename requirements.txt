@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+pydantic
+faiss-cpu
+langchain
+sentence-transformers
+google-auth-oauthlib
+google-api-python-client
+streamlit
