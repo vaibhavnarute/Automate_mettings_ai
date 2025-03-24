@@ -53,13 +53,9 @@ Want to contribute? Follow these steps:
 3. Commit your changes 🔥
 4. Submit a pull request 📩
 
-## 📞 Contact
-
-📧 Email: narutevaibhav95.com
-🌐 GitHub: vaibhavnarute
 
 ## 📞 Contact
-- 📧 Email: your_email@example.com
-- 🌐 GitHub: [Your GitHub](https://github.com/yourusername)
-- 🐦 Twitter: [Your Twitter](https://twitter.com/yourhandle)
+- 📧 Email: narutevaibhav95.com
+- 🌐 GitHub: [Your GitHub](https://github.com/vaibhavnarute)
+
 
