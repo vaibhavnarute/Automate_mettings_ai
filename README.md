@@ -56,6 +56,6 @@ Want to contribute? Follow these steps:
 
 ## 📞 Contact
 - 📧 Email: narutevaibhav95.com
-- 🌐 GitHub: [Your GitHub](https://github.com/vaibhavnarute)
+- 🌐 GitHub: [MY GitHub](https://github.com/vaibhavnarute)
 
 
